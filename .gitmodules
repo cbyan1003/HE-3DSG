@@ -1,0 +1,6 @@
+[submodule "Framework"]
+	path = Framework
+	url = ./Framework/
+[submodule "Network"]
+	path = Network
+	url = ./Network
