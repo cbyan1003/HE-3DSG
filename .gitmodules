@@ -1,6 +1,6 @@
 [submodule "Framework"]
 	path = Framework
-	url = ./Framework/
+	url = https://github.com/cbyan1003/HE-3DSGR-Framework
 [submodule "Network"]
 	path = Network
-	url = ./Network
+	url = https://github.com/cbyan1003/HE-3DSGR-Network
